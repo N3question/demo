@@ -25,7 +25,7 @@
 
 
 ## 主な利用シーン
-SNSやサイトの広告で読みたい漫画ができた時
+SNSやサイトの広告で読みたい漫画を見かけた時
 
 
 ## ターゲットユーザー
@@ -35,7 +35,12 @@ SNSやサイトの広告で読みたい漫画ができた時
 ・ユーザーの特徴：収入が一定的にあり、漫画を読むために課金をしている。趣味の中でも漫画に割く時間が特に多い。
 
 ## 機能一覧
+◆実装機能リスト
+https://docs.google.com/spreadsheets/d/1utfUDZ9FNCkzduDopFDZh-sK2lkFYkG9qo0u00mNLBM/edit#gid=375590402
 
+## その他
+◆設計書
+◆使用素材
 <!--# README-->
 
 <!--This README would normally document whatever steps are necessary to get the-->
